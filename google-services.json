@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "595583145444",
+    "firebase_url": "https://hacktoolv1-default-rtdb.firebaseio.com",
+    "project_id": "hacktoolv1",
+    "storage_bucket": "hacktoolv1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595583145444:android:32a0d05c8af9c428f1e3f1",
+        "android_client_info": {
+          "package_name": "Hacktool.v1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7mjrw2lROfdRs_m5r4d99Xae9MR7cZuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
